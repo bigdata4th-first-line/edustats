@@ -90,8 +90,10 @@ def update_graph(xaxis_column_name, yaxis_column_name,
                      trendline = 'ols'
             )
     
-    title = "spearman p-value: " + str(stats.spearmanr(dff[dff['Indicator Name'] == xaxis_column_name]['value'],
-                           dff[dff['Indicator Name'] == yaxis_column_name]['value'])[1])
+    title = ("statistics: " + str(stats.spearmanr(dff[dff['Indicator Name'] == xaxis_column_name]['value'],
+                           dff[dff['Indicator Name'] == yaxis_column_name]['value'])[0]) 
+             + " p-value: " + str(stats.spearmanr(dff[dff['Indicator Name'] == xaxis_column_name]['value'],
+                           dff[dff['Indicator Name'] == yaxis_column_name]['value'])[1]))
     
     fig.add_annotation(x=0, y=0.95, xanchor='left', yanchor='bottom',
                        xref='paper', yref='paper', showarrow=False, align='left',
