@@ -1,0 +1,6 @@
+dash==2.11.1
+statsmodels
+pandas
+plotly
+scipy
+gunicorn
