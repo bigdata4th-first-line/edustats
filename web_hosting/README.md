@@ -1,6 +1,6 @@
 # web_hosting
 
-My First Web Hosting🎈
+Web🎈
 <br>https://first-dashboard.onrender.com/
 
 ref.
