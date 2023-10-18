@@ -54,7 +54,7 @@
 그래프를 작성한다.
 
 <p align="center">
-  <img src="https://github.com/bigdata4th-first-line/edustats/blob/main/image/workflow.png" width="800"/>
+  <img src="image/workflow.png" width="800"/>
 </p>
 [Figure 1] 교육 통계 프로젝트 Workflow 프로젝트의 흐름과 구성원의 역할. 모든 구성원은 전 과정에
 종합적으로 기여했으나 주도적으로 맡은 역할을 각자의 프레임에 넣어 나타냈다.
@@ -71,7 +71,7 @@
 
 i) 사교육비와 고교 진학률과의 상관관계
 <p align="center">
-  <img src="https://github.com/bigdata4th-first-line/edustats/blob/main/image/figure2.png" width="800"/>
+  <img src="image/figure2.png" width="800"/>
 </p>
 [Figure 2] 2022 년 서울의 사교육비와 특목고, 자율고 진학비율의 스피어만 상관계수 분석 그래프  
 
