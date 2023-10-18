@@ -89,7 +89,7 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 사교육비와 고교 진학 비율 및 청소년 비행 데이터, 우울감 등의 변수들을 분석하고 
 그래프를 작성한다.
 
-| ![workflow.png](image/workflow.png) |
+| ![workflow.png](images/workflow.png) |
 |:--:|
 | <b> [Figure1] Project Workflow </b> |
 | 모든 구성원은 전 과정에 종합적으로 기여했으나, 주도적으로 맡은 역할을 각자의 프레임에 넣어 나타냈다 |
@@ -98,7 +98,7 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 
 ## Result
 
-![pp.png](image/pp.png) 
+![pp.png](images/pp.png) 
 
 총 9개의 데이터 중에서 5 개의 데이터의 정규성 검정 결과 p-value 가 유의수준인 0.05
 보다 작기 때문에 귀무가설을 기각하고 대립가설을 채택해서 데이터가 정규성을 만족하지 
@@ -108,7 +108,7 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 <br>
 <b>i) 사교육비와 고교 진학률과의 상관관계</b>
 
-| ![figure2.png](image/figure2.png) |
+| ![figure2.png](images/figure2.png) |
 |:--:|
 | <b> [Figure2] 2022 년 서울의 사교육비와 특목고, 자율고 진학비율의 스피어만 상관계수 분석 그래프 </b> |
 사교육비와 진학률의 상관관계는 2018~2022년까지의 17개 지역 모두 p-value가 0.05 이상인 결과를 보인다. <br>따라서 귀무가설을 기각할 수 없어 통계적으로 유의하다고 할 수 없다.
@@ -116,7 +116,7 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 <br>
 <b>ii) 사교육비와 청소년 비행률과의 상관관계</b>
 
-| ![figure3.png](image/figure3.png) ![figure3-1.png](image/figure3-1.png) |
+| ![figure3.png](images/figure3.png) ![figure3-1.png](images/figure3-1.png) |
 |:--:|
 | <b> [Figure3] 2022 년 서울의 사교육비와 흡연율의 스피어만 상관계수 분석 그래프 </b> |
 사교육비와 청소년 비행률의 상관관계는 2018~2022년까지의 도합 10개 년도 중 7개 년도가 <br>p-value 가 0.05 이하의 값을 가져 통계적으로 유의하다는 결과를 나타냈다.
@@ -124,7 +124,7 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 <br>
 <b>iii) 사교육비와 청소년 비만율과의 상관관계</b>
 
-| ![figure4.png](image/figure4.png) |
+| ![figure4.png](images/figure4.png) |
 |:--:|
 | <b> [Figure4] 2022년 서울의 사교육비와 비만율의 스피어만 상관계수 분석 그래프 </b> |
 사교육비와 비만율의 상관관계는 2020년을 제외하면 모두 p-value 가 0.05 이하의 값을 가져 통계적으로 유의하다는 결과를 나타냈다.
@@ -132,7 +132,7 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 <br>
 <b>iv) 사교육비와 청소년 비만율과의 상관관계</b>
 
-| ![figure5.png](image/figure5.png) |
+| ![figure5.png](images/figure5.png) |
 |:--:|
 | <b> [Figure5] 2022 년 서울의 사교육비와 우울감 경험률의 스피어만 상관계수 분석 그래프 </b> |
 사교육비와 우울감 경험률은 2018~2022년 모두 p-value 가 0.05 이하로 통계적으로 유의하지 않았다. <br>결론적으로 사교육비와 진학률 및우울감 경험률은 상관관계가 없으며, 사교육비와 청소년 비행률 및 비만율과는 상관관계가 있다는 결과를 얻을 수 있다. <br>사교육비 지출이 높아질수록 청소년 비행률과 비만율이 유의하게 감소하는 경향을 보인다.
@@ -140,14 +140,14 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 
 <br>
 
-| ![figure6.png](image/figure6.png) |
+| ![figure6.png](images/figure6.png) |
 |:--:|
 | <b> [Figure 6] 사교육비 지출 정도를 지도를 이용하여 시각화한 그래프 (2018~2022) |
 사교육비와 비만율의 상관관계는 2020년을 제외하면 모두 p-value가 0.05 이하의 값을 가져 통계적으로 유의하다는 결과를 나타냈다.
 
 <br>
 
-| ![figure7.png](image/figure7.png) |
+| ![figure7.png](images/figure7.png) |
 |:--:|
 | <b> [Figure 7] 지역별 변수 값에 따른 box plot (2018~2022) </b> |
 사교육비와 비만율의 상관관계는 2020년을 제외하면 모두 p-value 가 0.05 이하의 값을 가져 통계적으로 유의하다는 결과를 나타냈다.
