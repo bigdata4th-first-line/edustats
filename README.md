@@ -103,8 +103,9 @@ EOSERVICE-WEB)이라는 곳에서 제공하는 행정구역도 데이터를 JSON
 <br>
 
 ## Result
-
-![pp.png](images/pp.png) 
+<p align="center">
+  <img src=images/pp.png>
+</p>
 
 총 9개의 데이터 중에서 5 개의 데이터의 정규성 검정 결과 p-value 가 유의수준인 0.05
 보다 작기 때문에 귀무가설을 기각하고 대립가설을 채택해서 데이터가 정규성을 만족하지 
