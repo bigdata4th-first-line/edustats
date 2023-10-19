@@ -1,7 +1,7 @@
 
 <h1 align="center"> 
   <br>
-  교육통계 프로젝트 분석 보고서
+  교육 통계 프로젝트 분석 보고서
 </h1>
 
 <h3 align="center">
